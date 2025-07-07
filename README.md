@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/akramiot-paypal-mcp-server-badge.png)](https://mseep.ai/app/akramiot-paypal-mcp-server)
+
 # Un-Official PayPal MCP Server
 
 
